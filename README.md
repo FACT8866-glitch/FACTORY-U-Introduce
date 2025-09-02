@@ -52,3 +52,21 @@ FACT，註定成為下一個超級生態的傳奇。
 
 深入了解 FACT 的核心機製與全球戰略
 點擊下方即可免費下載項目資料，搶先掌握未來財富密碼！
+
+<br>
+
+## 文件
+### FACT項目敘事
+> 下載地址： [FACT項目敘事.docx](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/FACT%E9%A0%85%E7%9B%AE%E6%95%98%E4%BA%8B.docx)
+### FACTORY-U 項目介紹
+> 下載地址： [FACTORY-U 項目介紹.pdf](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/FACTORY-U%20%E9%A0%85%E7%9B%AE%E4%BB%8B%E7%B4%B9.pdf)
+### FACTORY-U 經濟模型
+> 下載地址： [FACTORY-U 經濟模型.pdf](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/FACTORY-U%20%E7%B6%93%E6%BF%9F%E6%A8%A1%E5%9E%8B.pdf)
+### FACTORY-U Project introduce
+> 下載地址： [FACTORY-U Project introduce.pdf](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/FACTORY-U%20Project%20introduce.pdf)
+### FACTORY-U Economic Model
+> 下載地址： [FACTORY-U Economic Model.pdf](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/FACTORY-U%20Economic%20Model.pdf)
+
+![](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/fact-pic/fact-1.jpg)
+![](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/fact-pic/fact-2.jpg)
+![](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/fact-pic/fact-3.jpg)
