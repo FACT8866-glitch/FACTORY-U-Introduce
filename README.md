@@ -60,12 +60,20 @@ FACT，註定成為下一個超級生態的傳奇。
 > 下載地址： [FACT項目敘事.docx](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/FACT%E9%A0%85%E7%9B%AE%E6%95%98%E4%BA%8B.docx)
 ### FACTORY-U 項目介紹
 > 下載地址： [FACTORY-U 項目介紹.pdf](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/FACTORY-U%20%E9%A0%85%E7%9B%AE%E4%BB%8B%E7%B4%B9.pdf)
+> ![](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/screenshot/FACTORY-U%20%E9%A0%85%E7%9B%AE%E4%BB%8B%E7%B4%B91.png)
+> ![](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/screenshot/FACTORY-U%20%E9%A0%85%E7%9B%AE%E4%BB%8B%E7%B4%B92.png)
 ### FACTORY-U 經濟模型
 > 下載地址： [FACTORY-U 經濟模型.pdf](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/FACTORY-U%20%E7%B6%93%E6%BF%9F%E6%A8%A1%E5%9E%8B.pdf)
+> ![](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/screenshot/FACTORY-U%20%E7%B6%93%E6%BF%9F%E6%A8%A1%E5%9E%8B1.png)
+> ![](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/screenshot/FACTORY-U%20%E7%B6%93%E6%BF%9F%E6%A8%A1%E5%9E%8B2.png)
 ### FACTORY-U Project introduce
 > 下載地址： [FACTORY-U Project introduce.pdf](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/FACTORY-U%20Project%20introduce.pdf)
+> ![](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/screenshot/FACTORY-U%20Project%20introduce1.png)
+> ![](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/screenshot/FACTORY-U%20Project%20introduce2.png)
 ### FACTORY-U Economic Model
 > 下載地址： [FACTORY-U Economic Model.pdf](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/FACTORY-U%20Economic%20Model.pdf)
+> ![](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/screenshot/FACTORY-U%20Economic%20Model1.png)
+> ![](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/screenshot/FACTORY-U%20Economic%20Model2.png)
 ### FACTORY-U Project introduce
 > 下載地址： [FACTORY-U Project introduce.mp4](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/FACTORY-U%20Project%20introduce.mp4)
 
