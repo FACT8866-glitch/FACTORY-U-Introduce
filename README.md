@@ -66,6 +66,9 @@ FACT，註定成為下一個超級生態的傳奇。
 > 下載地址： [FACTORY-U Project introduce.pdf](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/FACTORY-U%20Project%20introduce.pdf)
 ### FACTORY-U Economic Model
 > 下載地址： [FACTORY-U Economic Model.pdf](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/FACTORY-U%20Economic%20Model.pdf)
+### FACTORY-U Project introduce
+> 下載地址： [FACTORY-U Project introduce.mp4](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/FACTORY-U%20Project%20introduce.mp4)
+
 
 ![](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/fact-pic/fact-1.jpg)
 ![](https://github.com/FACT8866-glitch/FACTORY-U-Introduce/blob/main/fact-pic/fact-2.jpg)
